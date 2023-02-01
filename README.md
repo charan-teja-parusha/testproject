@@ -1,1 +1,1 @@
-Project 1. Testing for assignment.
+Python Program of mathematical calculations.
